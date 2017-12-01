@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jibutare.github.io/</loc>
+    <loc>http://jibutare.org/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jibutare.github.io/diary/</loc>
+    <loc>http://jibutare.org/diary/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jibutare.github.io/docs/</loc>
+    <loc>http://jibutare.org/docs/</loc>
   </url>
   
   <url>
-    <loc>https://jibutare.github.io/about/</loc>
+    <loc>http://jibutare.org/about/</loc>
   </url>
   
   <url>
-    <loc>https://jibutare.github.io/2017/12/start/</loc>
+    <loc>http://jibutare.org/2017/12/start/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jibutare.github.io/authors/</loc>
+    <loc>http://jibutare.org/authors/</loc>
   </url>
   
   <url>
-    <loc>https://jibutare.github.io/categories/</loc>
+    <loc>http://jibutare.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jibutare.github.io/tags/hugo/</loc>
-    <lastmod>2017-12-01T18:17:56+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jibutare.github.io/authors/jibutare/</loc>
+    <loc>http://jibutare.org/tags/hugo/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jibutare.github.io/categories/misc/</loc>
+    <loc>http://jibutare.org/authors/jibutare/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jibutare.github.io/page/</loc>
+    <loc>http://jibutare.org/categories/misc/</loc>
+    <lastmod>2017-12-01T18:17:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jibutare.github.io/tags/</loc>
+    <loc>http://jibutare.org/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jibutare.org/tags/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
     <priority>0</priority>
   </url>

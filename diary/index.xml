@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Diary on jibutare</title>
-    <link>https://jibutare.github.io/diary/</link>
+    <link>http://jibutare.org/diary/</link>
     <description>Recent content in Diary on jibutare</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 01 Dec 2017 18:17:56 +0900</lastBuildDate>
     
-	<atom:link href="https://jibutare.github.io/diary/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jibutare.org/diary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>GitHub Pages &#43; Hugoでブログを始めます</title>
-      <link>https://jibutare.github.io/2017/12/start/</link>
+      <link>http://jibutare.org/2017/12/start/</link>
       <pubDate>Fri, 01 Dec 2017 18:17:56 +0900</pubDate>
       
-      <guid>https://jibutare.github.io/2017/12/start/</guid>
+      <guid>http://jibutare.org/2017/12/start/</guid>
       <description>タイトルのとおりです(笑)</description>
     </item>
     

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentation on jibutare</title>
-    <link>https://jibutare.github.io/docs/</link>
+    <link>http://jibutare.org/docs/</link>
     <description>Recent content in Documentation on jibutare</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://jibutare.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jibutare.org/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

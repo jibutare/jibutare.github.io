@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on jibutare</title>
-    <link>https://jibutare.github.io/tags/</link>
+    <link>http://jibutare.org/tags/</link>
     <description>Recent content in Tags on jibutare</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 01 Dec 2017 18:17:56 +0900</lastBuildDate>
     
-	<atom:link href="https://jibutare.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jibutare.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>https://jibutare.github.io/tags/hugo/</link>
+      <link>http://jibutare.org/tags/hugo/</link>
       <pubDate>Fri, 01 Dec 2017 18:17:56 +0900</pubDate>
       
-      <guid>https://jibutare.github.io/tags/hugo/</guid>
+      <guid>http://jibutare.org/tags/hugo/</guid>
       <description></description>
     </item>
     
