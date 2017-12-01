@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jibutare.org/</loc>
+    <loc>https://jibutare.org/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jibutare.org/diary/</loc>
+    <loc>https://jibutare.org/diary/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jibutare.org/docs/</loc>
+    <loc>https://jibutare.org/docs/</loc>
   </url>
   
   <url>
-    <loc>http://jibutare.org/about/</loc>
+    <loc>https://jibutare.org/about/</loc>
   </url>
   
   <url>
-    <loc>http://jibutare.org/2017/12/start/</loc>
+    <loc>https://jibutare.org/2017/12/start/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jibutare.org/authors/</loc>
+    <loc>https://jibutare.org/authors/</loc>
   </url>
   
   <url>
-    <loc>http://jibutare.org/categories/</loc>
+    <loc>https://jibutare.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jibutare.org/tags/hugo/</loc>
-    <lastmod>2017-12-01T18:17:56+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://jibutare.org/authors/jibutare/</loc>
+    <loc>https://jibutare.org/tags/hugo/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jibutare.org/categories/misc/</loc>
+    <loc>https://jibutare.org/authors/jibutare/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jibutare.org/page/</loc>
+    <loc>https://jibutare.org/categories/misc/</loc>
+    <lastmod>2017-12-01T18:17:56+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jibutare.org/tags/</loc>
+    <loc>https://jibutare.org/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/tags/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
     <priority>0</priority>
   </url>
