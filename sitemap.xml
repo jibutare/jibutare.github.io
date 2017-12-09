@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://jibutare.org/</loc>
-    <lastmod>2017-12-06T18:07:38+09:00</lastmod>
+    <lastmod>2017-12-09T20:44:14+09:00</lastmod>
   </url>
   
   <url>
@@ -14,10 +14,16 @@
   
   <url>
     <loc>https://jibutare.org/docs/</loc>
+    <lastmod>2017-12-09T20:44:14+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://jibutare.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/github-pages-hugo-customdomain-ssl/</loc>
+    <lastmod>2017-12-09T20:44:14+09:00</lastmod>
   </url>
   
   <url>
@@ -33,7 +39,6 @@
   <url>
     <loc>https://jibutare.org/tags/apple/</loc>
     <lastmod>2017-12-06T18:07:38+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -54,12 +59,11 @@
   <url>
     <loc>https://jibutare.org/tags/hugo/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jibutare.org/authors/jibutare/</loc>
-    <lastmod>2017-12-06T18:07:38+09:00</lastmod>
+    <lastmod>2017-12-09T20:44:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -71,6 +75,12 @@
   
   <url>
     <loc>https://jibutare.org/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/categories/proc/</loc>
+    <lastmod>2017-12-09T20:44:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
