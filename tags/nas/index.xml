@@ -5,16 +5,17 @@
     <link>https://jibutare.org/tags/nas/</link>
     <description>Recent content in NAS on jibutare</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 31 Dec 2017 15:14:38 +0900</lastBuildDate>
     
 	<atom:link href="https://jibutare.org/tags/nas/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>2017-12-31-1514704839</title>
-      <link>https://jibutare.org/1/01/ts-231p/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>TS-231Pを購入しました</title>
+      <link>https://jibutare.org/2017/12/ts-231p/</link>
+      <pubDate>Sun, 31 Dec 2017 15:14:38 +0900</pubDate>
       
-      <guid>https://jibutare.org/1/01/ts-231p/</guid>
+      <guid>https://jibutare.org/2017/12/ts-231p/</guid>
       <description>TS-231Pを購入しました。
 これまでNASは、HP ProLiant MicroServer Turion II NEO N40LにNAS4Freeをインストールして、RAID-Zで運用していました。いまでもこれで事足りています。
 とはいえ、QNAPやSynologyの記事を読んでいますと、豊富な機能が搭載されたNASを触ってみたくなりTS-231Pを選びました。

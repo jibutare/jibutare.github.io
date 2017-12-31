@@ -5,38 +5,17 @@
     <link>https://jibutare.org/categories/device/</link>
     <description>Recent content in Device on jibutare</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 06 Dec 2017 18:07:38 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 31 Dec 2017 15:14:38 +0900</lastBuildDate>
     
 	<atom:link href="https://jibutare.org/categories/device/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Magic Trackpad 2はとても便利</title>
-      <link>https://jibutare.org/2017/12/magic-trackpad-2/</link>
-      <pubDate>Wed, 06 Dec 2017 18:07:38 +0900</pubDate>
+      <title>TS-231Pを購入しました</title>
+      <link>https://jibutare.org/2017/12/ts-231p/</link>
+      <pubDate>Sun, 31 Dec 2017 15:14:38 +0900</pubDate>
       
-      <guid>https://jibutare.org/2017/12/magic-trackpad-2/</guid>
-      <description>もっと早く買っておけばよかった。
-そう感じさせたMagic Trackpad 2です。 Magic Trackpad 2の評価は高く、以前から気になっていました。 価格に腰が引けていたのです(笑)
-とはいえ、Mac mini(Late 2014)に、HHKB Professional2とTrackman Marbleを接続していますが、不便を感じなかったのも手を出さなかった要因の一つ。
-ただ、近ごろはMacBook Pro (Retina, 13-inch, Early 2015)で作業する機会が増えていました。ColorEdge CX241で作業するほうが楽なのに、快適なトラックパッドへ吸い寄せられてついつい背中を丸めてしまいます。
-感圧タッチトラックパッドはタップからスワイプまで重宝します。使い始めは、何本指がどの動作で、スワイプは&amp;hellip;アレ? 思い出せなくてステム環境設定から確認していましたが、手が覚えはじめるとほんとに便利。
-Mac miniとMacBook Proの環境設定が違うと、ほんのわずかなストレスにすぎなくても、何かの拍子に「気になる」スイッチがONになってしまい、なかなかOFFにできません。
-Trackman Marbleのスクロールが引っかかたり、(当たり前のことなのですが)スワイプができなかったりして、我慢できずにMagic Trackpad 2を購入。
-ヤマト運輸さんから荷物を受け取ってすぐに開封、充電は80%でした。 Bluetoothに接続、システム環境設定 &amp;gt; トラックパッドに設定項目が表示されて、思わず「おぉ〜」と声が出ました(笑)
-快適です。
-パッドの傾斜はほどよい加減で、指や手首がつかれません。 面積が広いのでタップ、スワイプ、ジェスチャがしやすいです。
-操作していて、ふと感じました。Magic Trackpad 2はスマートフォンの操作に似ています。物理的なボタンがないからでしょうか。使い勝手は群を抜いています。
-数分後にHHKB Professional2のUSBポートからTrackman Marbleをはずしました。約2年間、がんばってくれました。
-というわけでMagic Trackpad 2、もっと早く買っておけばよかった。</description>
-    </item>
-    
-    <item>
-      <title>2017-12-31-1514704839</title>
-      <link>https://jibutare.org/1/01/ts-231p/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jibutare.org/1/01/ts-231p/</guid>
+      <guid>https://jibutare.org/2017/12/ts-231p/</guid>
       <description>TS-231Pを購入しました。
 これまでNASは、HP ProLiant MicroServer Turion II NEO N40LにNAS4Freeをインストールして、RAID-Zで運用していました。いまでもこれで事足りています。
 とはいえ、QNAPやSynologyの記事を読んでいますと、豊富な機能が搭載されたNASを触ってみたくなりTS-231Pを選びました。
@@ -59,6 +38,27 @@ TS-251+が欲しくなる 豊富な機能を試したくなりますが、メモ
 TS-231Pを運用したらすぐにTS-251+が欲しくなりました。TS-251+はメモリを交換できます。仮想環境やWordPressを稼働させたり、全文検索ツールを使ってみたいです。NAS4Freeの容量を拡張して、TS-251+とNAS4FreeとでRsyncのバックアップ環境を構築したりと、用途がひろがりそうです。
 いままでPC+NAS OSの組み合わせで充分だったのに、NASキットの進化を体験したら、PC+NAS OSを主体とした運用がもう面倒に感じられてきて、楽なほうに慣れてしまうのも困りものです(笑)
 QNAPにしろSynologyにしろ、主な用途がファイル共有であればエントリーモデルで間に合いそうです。ただ、ファイル共有以外の機能を使ってあれこれしたいとなると、はじめから上位機種を選んだほうがよいですね。</description>
+    </item>
+    
+    <item>
+      <title>Magic Trackpad 2はとても便利</title>
+      <link>https://jibutare.org/2017/12/magic-trackpad-2/</link>
+      <pubDate>Wed, 06 Dec 2017 18:07:38 +0900</pubDate>
+      
+      <guid>https://jibutare.org/2017/12/magic-trackpad-2/</guid>
+      <description>もっと早く買っておけばよかった。
+そう感じさせたMagic Trackpad 2です。 Magic Trackpad 2の評価は高く、以前から気になっていました。 価格に腰が引けていたのです(笑)
+とはいえ、Mac mini(Late 2014)に、HHKB Professional2とTrackman Marbleを接続していますが、不便を感じなかったのも手を出さなかった要因の一つ。
+ただ、近ごろはMacBook Pro (Retina, 13-inch, Early 2015)で作業する機会が増えていました。ColorEdge CX241で作業するほうが楽なのに、快適なトラックパッドへ吸い寄せられてついつい背中を丸めてしまいます。
+感圧タッチトラックパッドはタップからスワイプまで重宝します。使い始めは、何本指がどの動作で、スワイプは&amp;hellip;アレ? 思い出せなくてステム環境設定から確認していましたが、手が覚えはじめるとほんとに便利。
+Mac miniとMacBook Proの環境設定が違うと、ほんのわずかなストレスにすぎなくても、何かの拍子に「気になる」スイッチがONになってしまい、なかなかOFFにできません。
+Trackman Marbleのスクロールが引っかかたり、(当たり前のことなのですが)スワイプができなかったりして、我慢できずにMagic Trackpad 2を購入。
+ヤマト運輸さんから荷物を受け取ってすぐに開封、充電は80%でした。 Bluetoothに接続、システム環境設定 &amp;gt; トラックパッドに設定項目が表示されて、思わず「おぉ〜」と声が出ました(笑)
+快適です。
+パッドの傾斜はほどよい加減で、指や手首がつかれません。 面積が広いのでタップ、スワイプ、ジェスチャがしやすいです。
+操作していて、ふと感じました。Magic Trackpad 2はスマートフォンの操作に似ています。物理的なボタンがないからでしょうか。使い勝手は群を抜いています。
+数分後にHHKB Professional2のUSBポートからTrackman Marbleをはずしました。約2年間、がんばってくれました。
+というわけでMagic Trackpad 2、もっと早く買っておけばよかった。</description>
     </item>
     
   </channel>
