@@ -4,12 +4,12 @@
   
   <url>
     <loc>https://jibutare.org/</loc>
-    <lastmod>2017-12-31T15:14:38+09:00</lastmod>
+    <lastmod>2018-12-04T13:49:30+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://jibutare.org/diary/</loc>
-    <lastmod>2017-12-31T15:14:38+09:00</lastmod>
+    <lastmod>2018-12-04T13:49:30+09:00</lastmod>
   </url>
   
   <url>
@@ -19,6 +19,11 @@
   
   <url>
     <loc>https://jibutare.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/2018/12/mac-mini-2018/</loc>
+    <lastmod>2018-12-04T13:49:30+09:00</lastmod>
   </url>
   
   <url>
@@ -56,19 +61,13 @@
   </url>
   
   <url>
-    <loc>https://jibutare.org/categories/device/</loc>
-    <lastmod>2017-12-31T15:14:38+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jibutare.org/tags/hugo/</loc>
     <lastmod>2017-12-01T18:17:56+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jibutare.org/authors/jibutare/</loc>
-    <lastmod>2017-12-31T15:14:38+09:00</lastmod>
+    <loc>https://jibutare.org/tags/mac/</loc>
+    <lastmod>2018-12-04T13:49:30+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -90,14 +89,26 @@
   </url>
   
   <url>
-    <loc>https://jibutare.org/categories/proc/</loc>
-    <lastmod>2017-12-09T20:44:14+09:00</lastmod>
+    <loc>https://jibutare.org/tags/</loc>
+    <lastmod>2017-12-06T18:07:38+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jibutare.org/tags/</loc>
-    <lastmod>2017-12-06T18:07:38+09:00</lastmod>
+    <loc>https://jibutare.org/categories/device/</loc>
+    <lastmod>2018-12-04T13:49:30+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/authors/jibutare/</loc>
+    <lastmod>2018-12-04T13:49:30+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/categories/proc/</loc>
+    <lastmod>2017-12-09T20:44:14+09:00</lastmod>
     <priority>0</priority>
   </url>
   
