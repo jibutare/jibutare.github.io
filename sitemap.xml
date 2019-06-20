@@ -4,12 +4,12 @@
   
   <url>
     <loc>https://jibutare.org/</loc>
-    <lastmod>2019-01-07T09:59:34+09:00</lastmod>
+    <lastmod>2019-06-20T16:00:17+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://jibutare.org/diary/</loc>
-    <lastmod>2019-01-07T09:59:34+09:00</lastmod>
+    <lastmod>2019-06-20T16:00:17+09:00</lastmod>
   </url>
   
   <url>
@@ -22,13 +22,71 @@
   </url>
   
   <url>
+    <loc>https://jibutare.org/authors/</loc>
+    <lastmod>2019-06-20T16:00:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/categories/</loc>
+    <lastmod>2019-06-20T16:00:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/categories/misc/</loc>
+    <lastmod>2019-06-20T16:00:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/tags/</loc>
+    <lastmod>2019-06-20T16:00:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/2019/06/vapor-glove-4%E3%82%92%E8%B3%BC%E5%85%A5%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F/</loc>
+    <lastmod>2019-06-20T16:00:17+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/authors/jibutare/</loc>
+    <lastmod>2019-06-20T16:00:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/tags/purchase/</loc>
+    <lastmod>2019-06-20T16:00:17+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jibutare.org/2019/01/hhkb-professional-bt-us/</loc>
     <lastmod>2019-01-07T09:59:34+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://jibutare.org/tags/mac/</loc>
+    <lastmod>2019-01-07T09:59:34+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/categories/device/</loc>
+    <lastmod>2019-01-07T09:59:34+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jibutare.org/2018/12/mac-mini-2018/</loc>
     <lastmod>2018-12-04T13:49:30+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/tags/nas/</loc>
+    <lastmod>2017-12-31T15:14:38+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -42,6 +100,22 @@
   </url>
   
   <url>
+    <loc>https://jibutare.org/tags/hugo/</loc>
+    <lastmod>2018-12-04T17:38:49+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/categories/proc/</loc>
+    <lastmod>2018-12-04T17:38:49+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jibutare.org/tags/apple/</loc>
+    <lastmod>2017-12-06T18:07:38+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jibutare.org/2017/12/magic-trackpad-2/</loc>
     <lastmod>2017-12-06T18:07:38+09:00</lastmod>
   </url>
@@ -52,68 +126,7 @@
   </url>
   
   <url>
-    <loc>https://jibutare.org/tags/apple/</loc>
-    <lastmod>2017-12-06T18:07:38+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jibutare.org/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jibutare.org/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jibutare.org/tags/hugo/</loc>
-    <lastmod>2017-12-01T18:17:56+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jibutare.org/tags/mac/</loc>
-    <lastmod>2019-01-07T09:59:34+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jibutare.org/categories/misc/</loc>
-    <lastmod>2017-12-01T18:17:56+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jibutare.org/tags/nas/</loc>
-    <lastmod>2017-12-31T15:14:38+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://jibutare.org/page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jibutare.org/tags/</loc>
-    <lastmod>2017-12-06T18:07:38+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jibutare.org/categories/device/</loc>
-    <lastmod>2019-01-07T09:59:34+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jibutare.org/authors/jibutare/</loc>
-    <lastmod>2019-01-07T09:59:34+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jibutare.org/categories/proc/</loc>
-    <lastmod>2018-12-04T17:38:49+09:00</lastmod>
     <priority>0</priority>
   </url>
   
